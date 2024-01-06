@@ -45,12 +45,7 @@
   
 - 스프링 데이터 JPA
 
-### [섹션 7. AOP](https://velog.io/@parksomii/Spring-6.-%EC%8A%A4%ED%94%84%EB%A7%81-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0)
+### [섹션 7. AOP](https://velog.io/@parksomii/Spring-7.-AOP)
 - AOP가 필요한 상황
   
 - AOP 적용
-
-<br>
-<br>
-
->References : [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
